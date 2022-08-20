@@ -13,7 +13,7 @@ idéale. Je pouvais utiliser mon côté créatif pour concevoir et
 mon côté logique pour coder. En prime, être à la fois concepteur
 et développeur me permet de m'assurer qu'aucun détail n'est
 perdu dans la traduction.`;
-export const mon_mail = "lamincoder@gmail.com"
+export const mon_mail = "laminecoder@gmail.com"
 export const social = [
   {
     key: "Linkedin",
